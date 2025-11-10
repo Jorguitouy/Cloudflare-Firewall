@@ -260,12 +260,14 @@ Ver más plantillas en [GUIA-IMPLEMENTACION-CLOUDFLARE.md](GUIA-IMPLEMENTACION-C
 | [`MIDDLEWARE-DOCUMENTACION.md`](MIDDLEWARE-DOCUMENTACION.md) | Documentación técnica profunda | 1,267 |
 | [`GUIA-IMPLEMENTACION-CLOUDFLARE.md`](GUIA-IMPLEMENTACION-CLOUDFLARE.md) | Guía práctica paso a paso | 934 |
 | [`CONFIGURACION-CLOUDFLARE-PANEL.md`](CONFIGURACION-CLOUDFLARE-PANEL.md) | Reglas del panel + Cache Warming | 862 |
+| [`CACHE-WARMING-SISTEMA.md`](CACHE-WARMING-SISTEMA.md) | Sistema completo de Cache Warming | 1,229 |
 
 ### Documentación Completa
 
 - **[Documentación Técnica](MIDDLEWARE-DOCUMENTACION.md)**: Arquitectura, explicación de cada capa, diagramas, troubleshooting
 - **[Guía de Implementación](GUIA-IMPLEMENTACION-CLOUDFLARE.md)**: Checklist, plantillas CSP, testing, despliegue multi-sitio
 - **[Configuración del Panel](CONFIGURACION-CLOUDFLARE-PANEL.md)**: Reglas WAF, Cache Rules, Page Rules, Sistema de Cache Warming
+- **[Sistema de Cache Warming](CACHE-WARMING-SISTEMA.md)**: Worker completo, cron triggers, optimizaciones, monitoreo
 
 ---
 
